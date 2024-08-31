@@ -47,7 +47,7 @@
         "react-dom": "^16.13.1",
         "react-query": "^1.5.7",
         "react-router-dom": "^5.2.0",
-        "webpack": "^4.43.0",
+        "webpack": "^5.94.0",
         "webpack-cli": "^3.3.11",
         "webpack-merge": "^4.2.2"
     },
